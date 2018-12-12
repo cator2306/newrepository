@@ -1,0 +1,19 @@
+.jumbotron {
+background-color: #9ab7cf; width: 80%; margin:auto;
+}
+
+.jumbotron h1 {
+  color:white;text-align: center;
+}
+
+.colperso{
+  border:1px solid black;height: 100px;
+ }
+
+.colour1 {
+  background-color: #d5a4da;
+}
+
+.colourtext {
+  font-weight: bold;color: orange;
+}
